@@ -60,5 +60,5 @@ This is given input through `orders.csv` file.
 # Authors
 
 - [@Ritesh Ranjan (2019UCP1356)](https://github.com/sagittariusk2) MNIT, Jaipur
-- [@Rohit Lohar (2019UCP1373)](https://github.com/sagittariusk2) MNIT, Jaipur
+- [@Rohit Lohar (2019UCP1373)](https://www.linkedin.com/in/rohit-lohar-297627200/) MNIT, Jaipur
 
